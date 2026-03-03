@@ -52,5 +52,5 @@ loadstring(game:HttpGet("https://pastebin.com/raw/CwQcEnEd"))()
 
 ## Contact Information
 
-- Discord : [Exunys](https://discord.com/users/611111398818316309)
-- ROBLOX : [Exunys](https://www.roblox.com/users/330279990/profile)
+- Discord : [4LC Sniper](https://discord.com/users/1260703580919435376)
+- ROBLOX : [4LC Sniper](https://roblox.com/users/6130942919/profile)
